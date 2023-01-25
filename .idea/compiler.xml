@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="demoblaze.com" target="1.5" />
+      <module name="demoblaze.com" target="16" />
     </bytecodeTargetLevel>
   </component>
 </project>

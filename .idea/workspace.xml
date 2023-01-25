@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0215289e-ddc5-4196-82c9-6d27e7f04899" name="Changes" comment="refresh" />
+    <list default="true" id="0215289e-ddc5-4196-82c9-6d27e7f04899" name="Changes" comment="update all files">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chromedriver.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/chromedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/chromedriver.exe" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,9 +43,40 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "settings.editor.selected.configurable": "MavenSettings"
+    "last_opened_file_path": "C:/Users/prisi/IdeaProjects/JavaAutoTestLGCITY",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\prisi\IdeaProjects\demoblaze.com\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="MenuTest.findFirstMenu" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="demoblaze.com" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.menu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.menu" />
+      <option name="MAIN_CLASS_NAME" value="tests.menu.MenuTest" />
+      <option name="METHOD_NAME" value="findFirstMenu" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.MenuTest.findFirstMenu" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -99,7 +135,35 @@
       <option name="project" value="LOCAL" />
       <updated>1674645395021</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="refresh">
+      <created>1674645698425</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1674645698425</updated>
+    </task>
+    <task id="LOCAL-00009" summary="refresh">
+      <created>1674645703051</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1674645703051</updated>
+    </task>
+    <task id="LOCAL-00010" summary="update cromedriver">
+      <created>1674645797386</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1674645797386</updated>
+    </task>
+    <task id="LOCAL-00011" summary="update all files">
+      <created>1674645876445</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1674645876445</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -131,7 +195,9 @@
     <MESSAGE value="add a cromedriver" />
     <MESSAGE value="add a pom file" />
     <MESSAGE value="refresh" />
-    <option name="LAST_COMMIT_MESSAGE" value="refresh" />
+    <MESSAGE value="update cromedriver" />
+    <MESSAGE value="update all files" />
+    <option name="LAST_COMMIT_MESSAGE" value="update all files" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
