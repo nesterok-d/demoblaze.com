@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0215289e-ddc5-4196-82c9-6d27e7f04899" name="Changes" comment="add a description" />
+    <list default="true" id="0215289e-ddc5-4196-82c9-6d27e7f04899" name="Changes" comment="refresh" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,15 +14,20 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2KoY2dH3fq0s7M7hdMZKOUd7pp9" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -55,7 +60,28 @@
       <option name="project" value="LOCAL" />
       <updated>1674644658425</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add a cromedriver">
+      <created>1674645062582</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1674645062582</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add a pom file">
+      <created>1674645361988</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1674645361988</updated>
+    </task>
+    <task id="LOCAL-00006" summary="refresh">
+      <created>1674645385660</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1674645385660</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -81,8 +107,12 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="create project" />
     <MESSAGE value="add a description" />
-    <option name="LAST_COMMIT_MESSAGE" value="add a description" />
+    <MESSAGE value="add a cromedriver" />
+    <MESSAGE value="add a pom file" />
+    <MESSAGE value="refresh" />
+    <option name="LAST_COMMIT_MESSAGE" value="refresh" />
   </component>
 </project>
